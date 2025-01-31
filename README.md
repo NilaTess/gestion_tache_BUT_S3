@@ -14,7 +14,7 @@ Un visuel sur terminal à été effectué pour utiliser l'application.
 #### Installation 
 
 ```git
-git clone https://forge.univ-lyon1.fr/p2305739/project-dev-efficace-s3.git
+git clone https://github.com/NilaTess/gestion_tache_BUT_S3.git
 ```
 Lancer l'application depuis le fichier **main.py** à la base du projet.
 
