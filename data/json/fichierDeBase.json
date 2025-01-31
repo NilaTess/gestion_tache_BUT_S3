@@ -1,0 +1,75 @@
+[
+    {
+        "titre" : "Commencer le projet",
+        "description" : "Prendre son ordinateur et taper des choses",
+        "responsable" : "Nila",
+        "priorite" : 6,      
+        "date_limite" : "2024-11-20"
+},
+
+    {
+        "titre" : "Trouver une idée",
+        "description" : "Savoir sur quelle idée partir pour le projet",
+        "responsable" : "Basile",
+        "priorite" : 1,      
+        "date_limite" : "2024-11-29"
+},
+    
+    {
+        "titre" : "Données invalides ",
+        "description" : "Priorité trop grande",
+        "responsable" : "Nila",
+        "priorite" : 12,      
+        "date_limite" : "2024-13-9"
+},
+
+    {
+        "titre" : "Mettre en place les fonctionnalités principales",
+        "description" : "Rédiger des user stories (fonctionnalités, responsables)",
+        "responsable" : "Basile",
+        "priorite" : 1,      
+        "date_limite" : "2024-12-05"
+}, 
+
+    {
+        "titre" : "Dévelloper l'application",
+        "description" : "Coder jusqu'à obtenir un résultat satisfesant",
+        "responsable" : "Nila",
+        "priorite" : 2,      
+        "date_limite" : "2025-01-12"
+},
+
+    {
+        "titre" : "Données invalides",
+        "description" : "Date invalide",
+        "responsable" : "Basile",
+        "priorite" : 12,      
+        "date_limite" : "2-13-9"
+},
+
+    {
+        "titre" : "Faire un compte rendu du projet",
+        "description" : "Méthode pour changer les informations d'un evenement",
+        "responsable" : "Nila",
+        "priorite" : 5,      
+        "date_limite" : "2024-12-9"
+},
+
+    {
+        "titre" : "Etude de la complexité",
+        "description" : "le calvaire de tout codeur",
+        "responsable" : "Basile",
+        "priorite" : 4,      
+        "date_limite" : "2025-01-12"
+},
+
+
+    {
+        "titre" : "Données invalides tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt ",
+        "description" : "Titre trop long",
+        "responsable" : "Nila",
+        "priorite" : 1,      
+        "date_limite" : "2025-13-09"
+    }
+
+]
